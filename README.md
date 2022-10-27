@@ -1,9 +1,9 @@
 M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
 
-[![Linkedin: v-guillet](https://img.shields.io/badge/-Victor Guillet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-guillet)](https://www.linkedin.com/in/victor-guillet)
+[![Linkedin: v-guillet](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-guillet)](https://www.linkedin.com/in/victor-guillet)
+[![GitHub vguillet](https://img.shields.io/github/followers/vguillet?label=follow&style=social)](https://github.com/vguillet)
 <!-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](Https://www.researchgate.net/profile/Victor-Guillet) -->
 <!-- [![Medium v.guillet](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@v.guillet) -->
-[![GitHub vguillet](https://img.shields.io/github/followers/vguillet?label=follow&style=social)](https://github.com/vguillet)
 
 - 🔭 I’m currently working on my M.Sc. thesis on hybrid task allocation of multi-agent systems.
 - 🌱 I’m currently learning about Deep Reinforcement Learning in decision making and multi-agent systems, and blockchain technology.
@@ -13,8 +13,6 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vguillet)](https://github.com/vguyillet/github-readme-stats)
-
 </td>
 
 </tr>
@@ -22,10 +20,10 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 </table>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
+    <a href="https://github.com/vguillet/github-readme-stats">
       <img width="420px"
-           alt="stats"
-           src="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=light" />
+            alt="stats"
+            src="https://github-readme-stats.vercel.app/api?username=vguillet" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=dark/#gh-dark-mode-only">
       <img width="420px"
