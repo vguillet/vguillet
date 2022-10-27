@@ -5,7 +5,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 <!-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](Https://www.researchgate.net/profile/Victor-Guillet) -->
 <!-- [![Medium v.guillet](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@v.guillet) -->
 
-- 🔭 I’m currently working on my M.Sc. thesis on hybrid task allocation of multi-agent systems in collaboration with the [ONERA, the French Aerospace Lab](https://www.onera.fr/en).
+- 🔭 I’m currently working on my M.Sc. thesis, focusing on hybrid task allocation of multi-agent systems in collaboration with the [ONERA, the French Aerospace Lab](https://www.onera.fr/en).
 - 🌱 I’m currently learning about Deep Reinforcement Learning in decision making for multi-agent systems, and blockchain technology.
 - 👯 I’m looking to collaborate on the developement of block-based code libraries for an upcoming personal project 
 <!-- - 💬 Ask me about  -->
