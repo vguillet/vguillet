@@ -20,10 +20,10 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 </table>
 
 <p align="center">
-    <a href="https://github.com/vguillet/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
       <img width="420px"
-            alt="stats"
-            src="https://github-readme-stats.vercel.app/api?username=vguillet" />
+           alt="stats"
+           src="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=light" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api?username=vguillet&show_icons=true&include_all_commits=true&theme=dark/#gh-dark-mode-only">
       <img width="420px"
