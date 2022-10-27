@@ -41,9 +41,9 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
            src="https://github-readme-streak-stats.herokuapp.com/?user=vguillet&theme=dark" />
     </a>
 </p>
-
+<!-- 
 ## Languages I code in
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
-<!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
+<!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) --> -->
