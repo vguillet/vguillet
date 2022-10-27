@@ -7,7 +7,7 @@ M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tude
 
 - 🔭 I’m currently working on my M.Sc. thesis on hybrid task allocation of multi-agent systems.
 - 🌱 I’m currently learning about Deep Reinforcement Learning in decision making and multi-agent systems, and blockchain technology.
-- 👯 I’m looking to collaborate on the developement of block-based codes libraries for an upcoming personal project 
+- 👯 I’m looking to collaborate on the developement of block-based code libraries for an upcoming personal project 
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: `victor.guillet@gmail.com`
 <!-- - ⚡ Fun fact: -->
