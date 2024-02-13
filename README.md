@@ -1,4 +1,4 @@
-M.Sc. Aerospace Engineering at [Delft University of Technology](https://www.tudelft.nl/en/) 🎓
+PhD Robotics and AI [ONERA](https://onera.fr/en) 🎓
 
 [![Linkedin: v-guillet](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-guillet)](https://www.linkedin.com/in/victor-guillet)
 [![GitHub vguillet](https://img.shields.io/github/followers/vguillet?label=follow&style=social)](https://github.com/vguillet)
